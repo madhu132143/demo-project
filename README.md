@@ -1,4 +1,4 @@
-# demo-project
+# demo-madhu
 import java.util.Scanner;
 
 public class LoginModule {
