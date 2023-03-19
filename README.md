@@ -1,7 +1,7 @@
 # demo-madhu-akhia
 import java.util.Scanner;
 
-public class LoginModule {
+if>public class LoginModule {
     public static void main(String[] args) {
         String username, password;
         
